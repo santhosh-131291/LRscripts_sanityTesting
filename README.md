@@ -1,7 +1,12 @@
-# LRscripts_sanityTesting
+# Project Name - LRscripts_sanityTesting
+
+**Author - Santhosh**
+
 LR scripts can be validated without opening Vugen.
+
 Step 1: Download all the files and place in same folder
 Step 2: Install python and libraries such as streamlit,pandas,plotly
+Step 3:Open 7_SanityDashboardBasic.py code in IDLE and change the script location,save it
 Step 3: Run 7_SanityDashboardBasic.bat file.
 Step 4: Select the scripts in the dashboard.
 Scripts will start running in the background and the results are displayed.
