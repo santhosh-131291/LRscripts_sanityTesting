@@ -14,8 +14,8 @@ Step 4: Run 7_SanityDashboardBasic.bat file.
 
 Step 5: Select the scripts in the dashboard.
 
-Scripts will start running in the background and the results are displayed.
+Scripts will start running in the background and the results are displayed. It shows the script as passed or failed, if it fails shows the transaction that is failing with the error message.
 
-In parallel, upto 10 scripts can be validated. For example, select all scripts, move the slider to 10, it will start running 10 scripts,once done next batch of 10 scripts will be running and the results can be seen in the dashboard itself.
+In parallel, upto 10 scripts can be validated. For example, select all scripts, move the slider to 10, it will start running 10 scripts,once done next batch of 10 scripts will be running and the results can be seen in the dashboard itself. 
 
 If required, results can be downloaded in excel.
